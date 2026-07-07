@@ -14,7 +14,7 @@ faster-whisper 모델을 전역으로 한 번만 로딩합니다.
 - 지금은 프로젝트 연결 성공이 먼저라서 small이 적당합니다.
 """
 model = WhisperModel(
-    "samll",
+    "small",
     device="cpu",
     compute_type="int8"
 )

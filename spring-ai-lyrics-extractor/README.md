@@ -10,7 +10,15 @@ Spring Boot, FastAPI, ffmpeg, faster-whisper, Ollama를 사용한 **로컬 AI �
 
 ### Bruno API 테스트 결과
 
+#### medium 결과
+
 ![Bruno API 테스트 결과](docs/image/stt결과물.png)
+
+
+#### small 결과
+
+![Bruno API 테스트 결과](docs/image/sttSmall결과물.png)
+
 
 ## 주요 기능
 
