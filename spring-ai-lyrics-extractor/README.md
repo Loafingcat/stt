@@ -6,6 +6,12 @@ Spring Boot, FastAPI, ffmpeg, faster-whisper, Ollama를 사용한 **로컬 AI �
 
 > 현재 Ollama 후처리는 코드 구조만 준비되어 있으며, 실제 LLM 후처리 호출은 아직 활성화되어 있지 않습니다.
 
+## 실행 결과
+
+### Bruno API 테스트 결과
+
+![Bruno API 테스트 결과](docs/images/bruno-result.png)
+
 ## 주요 기능
 
 - 오디오 파일 업로드 API
